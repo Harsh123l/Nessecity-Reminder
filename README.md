@@ -228,11 +228,11 @@ This project is open source and available under the [MIT License](LICENSE).
 - Uses Nodemailer for email functionality
 - Inspired by the need for better task management
 
-## 📞 Support
+## Support
 
 For issues and questions:
 - Open an issue on GitHub
-- Email: [Your contact email]
+- Email: omeprecisions@gmail.com
 
 ---
 
